@@ -9,7 +9,6 @@
 
 ### Team Members
 - Team Lead: Nihal M - Collage of Engineering Munnar
-- Member 2: Blesson Prince - Collage of Engineering Munnar
 
 ### Project Description
 Our project will help you to automatically turn on the switches whenever you plug in your charger. The main objective of our project is to ensure you never forget to turn on the switch when charging your phone.
